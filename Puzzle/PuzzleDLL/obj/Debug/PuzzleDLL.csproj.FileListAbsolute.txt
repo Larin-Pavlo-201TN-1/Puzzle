@@ -1,0 +1,6 @@
+D:\visual studio\prodject\Puzzle\PuzzleDLL\bin\Debug\PuzzleDLL.dll
+D:\visual studio\prodject\Puzzle\PuzzleDLL\bin\Debug\PuzzleDLL.pdb
+D:\visual studio\prodject\Puzzle\PuzzleDLL\obj\Debug\PuzzleDLL.csproj.AssemblyReference.cache
+D:\visual studio\prodject\Puzzle\PuzzleDLL\obj\Debug\PuzzleDLL.csproj.CoreCompileInputs.cache
+D:\visual studio\prodject\Puzzle\PuzzleDLL\obj\Debug\PuzzleDLL.dll
+D:\visual studio\prodject\Puzzle\PuzzleDLL\obj\Debug\PuzzleDLL.pdb
